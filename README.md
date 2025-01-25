@@ -103,7 +103,7 @@
 
     <div id="localizacao">
         <h2>Parabéns! Você acertou!</h2>
-        <p>Envie uma mensagem para Lucas dizendo a seguinte frase: "Pôneis Malditos" e poderá seguir sua jornada.</p>
+        <p>Envie uma mensagem para Any dizendo a seguinte frase: "Pudim Amassado" e poderá seguir sua jornada.</p>
     </div>
 </body>
 </html>
