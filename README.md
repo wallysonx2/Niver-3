@@ -90,11 +90,8 @@
     <div id="conteudo">
         <h2>Feliz Aniversário Kamilly</h2>
         <p>
-            Seja bem-vinda à jornada para comemorar mais um ano de vida. Você é muito especial, 
-            e para que saiba o quanto é importante, você irá dar início a um caminho onde encontrará 
-            todos aqueles que te desejam o melhor. Mas antes da revelação, terá que desvendar as charadas. 
-            Espero que se divirta muito! Tudo isso foi feito com muito carinho somente para você. Obrigado 
-            por ser luz na minha vida. Feliz 23 aninhos de vida!!!
+            “Parabéns, Kamilly! Você passou pela primeira etapa da jornada e está cada vez mais perto da grande surpresa!
+Eu fico muito feliz de ver você se divertindo com tudo isso. Cada detalhe foi pensado com amor, porque você merece todo o carinho do mundo.
         </p>
 
         <iframe 
@@ -117,8 +114,8 @@
         <div id="localizacao">
             <h2>Parabéns! 🎉</h2>
             <p>
-                Envie uma mensagem para Lucas dizendo a seguinte frase 
-                "<b>Pôneis Malditos</b>" e poderá seguir sua jornada.
+                Envie uma mensagem para Any dizendo a seguinte frase 
+                "<b>Pudim Amassado</b>" e poderá seguir sua jornada.
             </p>
         </div>
     </div>
