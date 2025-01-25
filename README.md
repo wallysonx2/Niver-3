@@ -88,7 +88,9 @@
 
     <div id="conteudo">
         <h2>Feliz Aniversário, Kamilly!</h2>
-        <p>Seja bem-vinda à jornada para comemorar mais um ano de vida. Você é muito especial, e para que saiba o quanto é importante, você irá dar início a um caminho onde encontrará todos aqueles que te desejam o melhor. Mas antes da revelação, terá que desvendar as charadas. Espero que se divirta muito! Tudo isso foi feito com muito carinho somente para você. Obrigado por ser luz na minha vida. Feliz 23 aninhos de vida!!! — Wallyson Nascimento.</p>
+        <p>Parabéns, Kamilly! Você passou pela primeira etapa da jornada e está cada vez mais perto da grande surpresa!
+Eu fico muito feliz de ver você se divertindo com tudo isso. Cada detalhe foi pensado com amor, porque você merece todo o carinho do mundo.
+Agora é hora de desvendar mais uma charada para continuar!</p>
         
         <iframe src="https://www.youtube.com/embed/dvZMCnuNZOQ" allowfullscreen></iframe>
         
